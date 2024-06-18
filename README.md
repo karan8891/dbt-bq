@@ -19,3 +19,5 @@ Try running the following commands:
 - Creating Macros for date partition.
 - Testing for no orders at the beginning of the day.
 - Creating snapshot for address change and utilizing it.
+
+![project overview](https://github.com/karan8891/dbt-bq/blob/karan8891-patch-1/images/Project%20arch.jpg)
