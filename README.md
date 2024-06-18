@@ -15,7 +15,7 @@ Try running the following commands:
 - Adding project service account JSON key to DBT project.
 - Connecting Github repository with the project.
 - Creating multiple models and executing it.
-- Creating views and executing it by inline configuration. ('materialized: view')
+- Creating views and executing it by inline configuration. {{ config('materialized= view') }}
 - Creating Macros for date partition.
 - Testing for no orders at the beginning of the day.
 - Creating snapshot for address change and utilizing it.
